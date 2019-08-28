@@ -4,6 +4,7 @@ in a couple main areas:
 
 - audio practice (listing or speaking)
 - mobile-friendly usage (apps or PWA)
+- the meaning of the sentences/phrases being translated
 
 The audio practice could be added with some APIs and made a premium feature.
 
